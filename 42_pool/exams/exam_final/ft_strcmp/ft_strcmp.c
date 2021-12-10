@@ -7,5 +7,5 @@ int    ft_strcmp(char *s1, char *s2){
       break ;
     }
   }
-  return diff  ;// lead
+  return diff  ;// leady too
 }
